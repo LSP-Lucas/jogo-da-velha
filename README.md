@@ -7,7 +7,7 @@
 	<img src="https://ik.imagekit.io/mqh5rdpeme/jogo-velha_eMJ3EF4PS.gif" alt="Jogo da Velha" />
 </p>
 
-## 🚀 Sobre o Projeto
+## 📁 Sobre o Projeto
 O projeto consiste em um Jogo da Velha no qual é possivel jogar com dois jogadores (Player 1 e Player 2), ou contra a Máquina (IA).
 
 ## 🚀 Tecnologias Utilizadas
